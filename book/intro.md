@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Hallo
 
-_This is the first page the student will see when opening the url._
+_Dit is de eerte pagina van mijn nieuw boek voor informaticawetenschappen_
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+In de les gaan we aan de slag met deze e-books en python  om meer te leren over algoritmen en moddeleren.
